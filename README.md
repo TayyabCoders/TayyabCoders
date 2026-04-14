@@ -1,3 +1,5 @@
+![banner](https://github.com/TayyabCoders/TayyabCoders/blob/main/banner5.png)
+
 <h1 align="center">Hi 👋, I'm Tayyab Faisal</h1>
 <h3 align="center">Software Engineer | Full Stack · AI Systems & Scalable Backends | Building RAG Pipelines, AI Agents & Scalable APIs That Power Real Products | Helping Startups</h3>
 
